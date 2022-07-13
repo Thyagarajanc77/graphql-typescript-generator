@@ -1,0 +1,9 @@
+node_modules/
+
+testSchema.json
+schema.json
+jest_0/
+*.tgz
+generatedTypes/
+generatedTypes-CLIs/
+coverage/

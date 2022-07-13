@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# except these
+!lib/**/*
+!src/**/*
+!package-lock.json
+!package.json
+!README.md
